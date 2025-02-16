@@ -33,7 +33,7 @@ Installation
 
 Clone the Repository
 
-git clone https://github.com/yourusername/bank-management-system.git
+git clone https://github.com/parateja/Bank_Management.git
 cd bank-management-system
 
 Run the Program
